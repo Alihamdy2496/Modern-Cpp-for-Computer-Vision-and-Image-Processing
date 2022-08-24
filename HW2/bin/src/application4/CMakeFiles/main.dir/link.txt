@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -fPIC -O3  -rdynamic CMakeFiles/main.dir/main.cpp.o  -o ../../main  -Wl,-rpath,/home/ali/CppWS/igg_image/lib ../../../lib/libigg_image.a ../../../lib/libio_tools.so 

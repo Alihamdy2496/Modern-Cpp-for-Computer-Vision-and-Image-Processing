@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../../lib/libigg_image.a  CMakeFiles/igg_image.dir/image.cpp.o
-/usr/bin/ranlib ../../../lib/libigg_image.a
